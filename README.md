@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeJoeflyn&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoeJoeflyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joe_juicer03)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoeJoeflyn/JoeJoeflyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
