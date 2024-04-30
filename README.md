@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeJoeflyn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeJoeflyn&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeJoeflyn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeJoeflyn&layout=compact&theme=radical)-->
+<img height=300 width=300 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joe_juicer03&layout=compact&theme=radical&card_width=1000px)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joe_juicer03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoeJoeflyn/JoeJoeflyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
