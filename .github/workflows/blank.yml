@@ -22,11 +22,13 @@ jobs:
           # Options
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Saigon
+          plugin_introduction: yes
+          plugin_introduction_title: no
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
           plugin_anilist_user: .user.login
           plugin_gists: yes
@@ -50,15 +52,9 @@ jobs:
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
-          #3d skyline
-          plugin_skyline: yes
-          plugin_skyline_year: 0            # Set to 0 to display current year
-          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
-          plugin_skyline_quality: 0.5       # Set image quality
-          plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 5                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: .user.login                         # User
