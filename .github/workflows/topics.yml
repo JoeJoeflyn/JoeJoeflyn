@@ -19,6 +19,7 @@ jobs:
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
 
-          filename: metrics.plugin.topics.svg
+          filename: metrics.plugin.topics.icons.svg
           plugin_topics: yes
-          plugin_topics_limit: 12 
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
