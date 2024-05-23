@@ -18,4 +18,4 @@
 <a href="https://app.daily.dev/joejoeflyn"><img src="https://api.daily.dev/devcards/v2/Xwj4qvzkeKjap4fcGzhNQ.png?type=default&r=1q7" width="356" alt="JoejoeFlyn's Dev Card"/></a>
 
 # Metrics
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
