@@ -20,13 +20,6 @@
 </a>
 <br>
 
-# My reading stats
-<br>
-<a href="https://app.daily.dev/joejoeflyn" aria-label="Daily Dev Card">
-  <img src="https://api.daily.dev/devcards/v2/Xwj4qvzkeKjap4fcGzhNQ.png?type=default&r=1q7" width="100%" alt="JoeJoeflyn's Daily Dev Card" />
-</a>
-<br>
-
 # Metrics
 <br>
 <img src="https://github.com/JoeJoeflyn/JoeJoeflyn/raw/main/github-metrics.svg" alt="Metrics Overview for JoeJoeflyn" width="100%">
