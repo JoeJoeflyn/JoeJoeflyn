@@ -9,6 +9,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" aria-label="GitHub Readme Stats">
   <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoeJoeflyn&show_icons=true&theme=radical" alt="GitHub Stats for JoeJoeflyn" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/convoychat" aria-label="Top Languages">
   <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeJoeflyn&layout=compact&theme=radical" alt="Top Languages used by JoeJoeflyn" />
 </a>
@@ -19,7 +20,3 @@
   <img alt="Wakatime Stats for JoeJoeflyn" width=100% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JoeJoeflyn&layout=compact&theme=radical" />
 </a>
 <br>
-
-# Metrics
-<br>
-<img src="https://github.com/JoeJoeflyn/JoeJoeflyn/raw/main/github-metrics.svg" alt="Metrics Overview for JoeJoeflyn" width="100%">
